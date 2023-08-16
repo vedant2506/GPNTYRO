@@ -10,6 +10,7 @@
     background: url(https://img.freepik.com/free-photo/young-adults-smiling-looking-camera-outdoors-generative-ai_188544-46197.jpg?t=st=1692098802~exp=1692102402~hmac=e726d144a82fc81ea80055f0f54238f29f604e0a9e47574a339a2ae8fb9e9cf4&w=900);
     /* background: linear-gradient(rgba(0, 0, 0, 0.5), #009688), url(banner.jpg); */
     background-position: center;
+    background-attachment: fixed;
     background-size: cover;
     height: 100vh;
 }
